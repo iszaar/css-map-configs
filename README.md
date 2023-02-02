@@ -1,2 +1,3 @@
 # css-map-configs
-map configs i've done
+Map configs i've done.
+All are public change as you want.
